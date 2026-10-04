@@ -1,0 +1,130 @@
+body
+{
+    background-color: #131313;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.long-line
+{
+    height: 1px;
+}
+
+.logo
+{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+span
+{
+    color: #0FE1C2;
+}
+
+.link:hover
+{
+    transition: 200ms;
+    color: #0FE1C2 !important;
+}
+
+.home-btn
+{
+    color: #0FE1C2;
+    border-color: #0FE1C2;
+}
+
+.Abanoub-image
+{
+    border-color: #1E1E1E !important;
+    border-width: 10px !important;
+}
+
+.Abanoub-image2
+{
+    border-color: #1E1E1E !important;
+    border-width: 10px !important;
+}
+
+.header
+{
+    color: #FFFFFFA6;
+}
+
+.About-me-text p
+{
+    border-left-color: #0FE1C2 !important;
+}
+
+.education
+{
+    width: 460px;
+}
+
+.line-1
+{
+    background-color: #0FE1C2;
+    width: 5px;
+    height: 37px;
+    margin: auto;
+}
+
+.line-2
+{
+    background-color: #0FE1C2;
+    width: 5px;
+    height: 240px;
+    margin: auto;
+}
+
+.line-3
+{
+    background-color: #0FE1C2;
+    width: 5px;
+    height: 120px;
+    margin: auto;
+}
+
+.circle
+{
+    background-color: #0FE1C2;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.cairo-university
+{
+    margin-top: 150px;
+}
+
+.card
+{
+    background-color: #1E1E1E;
+}
+
+.project-image
+{
+    background-color: #1E1E1E;
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+input, textarea
+{
+    width: 500px !important;
+    background-color: #1E1E1E !important;
+}
+
+.footer
+{
+    height: 30vh;
+}
+
+.form-control
+{
+    color: white !important;
+}
